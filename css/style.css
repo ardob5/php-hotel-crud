@@ -1,0 +1,11 @@
+table tr th, td {
+  background: #313D5A;
+  color: #FFF;
+  padding: 7px 4px;
+  text-align: left;}
+
+table tr td {
+  background: #73628A;
+  color: #FFF;
+  border-top: 1px solid #FFF;
+}
